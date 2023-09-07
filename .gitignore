@@ -1,4 +1,9 @@
 *.csv
 *.json
 *.xlsx
+*.pdf
+*.jpg
+*.png
+*.jpeg
+*.gif
 *.code-workspace
